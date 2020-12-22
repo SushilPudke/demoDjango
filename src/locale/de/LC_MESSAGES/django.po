@@ -1,0 +1,1959 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-30 13:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: accounts/admin.py:36
+msgid "Tehcnologies"
+msgstr "Technologien"
+
+#: accounts/constants.py:4 settings/common.py:240
+msgid "English"
+msgstr "Englisch"
+
+#: accounts/constants.py:5 settings/common.py:241
+msgid "German"
+msgstr "Deutsch"
+
+#: accounts/constants.py:9
+msgid "< 1 year"
+msgstr "< 1 Jahr"
+
+#: accounts/constants.py:10
+msgid "1-3 years"
+msgstr "1-3 Jahre"
+
+#: accounts/constants.py:11
+msgid "3-5 years"
+msgstr "3-5 Jahre"
+
+#: accounts/constants.py:12
+msgid "5+ years"
+msgstr "5+ Jahre"
+
+#: accounts/constants.py:16
+msgid "Junior"
+msgstr "Junior"
+
+#: accounts/constants.py:17
+msgid "Middle"
+msgstr "Middle"
+
+#: accounts/constants.py:18
+msgid "Senior"
+msgstr "Senior"
+
+#: accounts/constants.py:19
+msgid "Lead"
+msgstr "Lead"
+
+#: accounts/constants.py:23
+msgid "Full time"
+msgstr "Vollzeit"
+
+#: accounts/constants.py:24
+msgid "Part time"
+msgstr "Teilzeit"
+
+#: accounts/constants.py:25 secure_documents/constants.py:6
+msgid "Contract"
+msgstr "Vertrag"
+
+#: accounts/constants.py:26
+msgid "Internship"
+msgstr "Praktikum"
+
+#: accounts/filters.py:18 accounts/filters.py:47 accounts/filters.py:55
+#: accounts/filters.py:74 projects/filters.py:17 projects/filters.py:46
+msgid "Category"
+msgstr "Kategorie"
+
+#: accounts/filters.py:22 accounts/filters.py:59 projects/filters.py:21
+msgid "Skills"
+msgstr "Kompetenzen"
+
+#: accounts/filters.py:25 accounts/models.py:464 projects/filters.py:24
+#: projects/models.py:97
+msgid "Job type"
+msgstr "Verfügbarkeit"
+
+#: accounts/filters.py:35 accounts/filters.py:62 accounts/models.py:254
+#: accounts/models.py:444 accounts/models.py:614 projects/filters.py:34
+#: projects/models.py:128
+msgid "Country"
+msgstr "Land"
+
+#: accounts/models.py:75
+#, fuzzy
+#| msgid "Company type"
+msgid "Employee type"
+msgstr "Unternehmenstyp"
+
+#: accounts/models.py:78 accounts/models.py:303 accounts/models.py:487
+#: accounts/models.py:682 accounts/models.py:712
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#: accounts/models.py:80 accounts/serializers.py:91 accounts/serializers.py:604
+#: authentication/serializers.py:152 invitations/serializers.py:24
+msgid "This email has been already registered in our system."
+msgstr "Diese E-Mail wurde bereits in unserem System registriert"
+
+#: accounts/models.py:82
+msgid "User type"
+msgstr "Benutzertyp"
+
+#: accounts/models.py:84
+msgid "Date joined"
+msgstr "Registriert seit"
+
+#: accounts/models.py:85
+msgid "Is active"
+msgstr "Ist aktiv"
+
+#: accounts/models.py:180
+msgid "Employee type of user should have a role"
+msgstr ""
+
+#: accounts/models.py:182
+msgid "This type of user should not have a role"
+msgstr ""
+
+#: accounts/models.py:184
+msgid "Only employee type of user can have Employer"
+msgstr ""
+
+#: accounts/models.py:242 accounts/models.py:570
+msgid "Logo"
+msgstr "Logo"
+
+#: accounts/models.py:247 accounts/models.py:575
+msgid "Company name"
+msgstr "Firmenname"
+
+#: accounts/models.py:250 accounts/models.py:440 accounts/models.py:610
+msgid "Adress"
+msgstr "Adresse"
+
+#  #: .\accounts\models.py:150 .\accounts\models.py:291
+#  #, fuzzy
+#  #| msgid "Address"
+#  msgid "Adress"
+#  msgstr "Adresse"
+#: accounts/models.py:251 accounts/models.py:441 accounts/models.py:611
+msgid "Postal Code"
+msgstr "Postleitzahl"
+
+#: accounts/models.py:252 accounts/models.py:442 accounts/models.py:612
+msgid "City"
+msgstr "Stadt"
+
+#: accounts/models.py:261 accounts/models.py:587
+msgid "Description"
+msgstr "Beschreibung"
+
+#: accounts/models.py:263 projects/models.py:40 projects/models.py:108
+#: projects/models.py:113
+msgid "Please enter minimum 255 symbols"
+msgstr "Bitte geben Sie mindestens 255 Zeichen ein"
+
+#: accounts/models.py:265
+msgid "Company Size"
+msgstr "Unternehmensgrösse"
+
+#: accounts/models.py:268
+msgid "Industry"
+msgstr "Branche"
+
+#: accounts/models.py:270 accounts/models.py:621
+msgid "Website"
+msgstr "Website"
+
+#: accounts/models.py:274 accounts/models.py:583 projects/models.py:102
+msgid "Communication languages"
+msgstr "Sprachen"
+
+#: accounts/models.py:293 accounts/models.py:309 accounts/models.py:663
+#: accounts/models.py:672 projects/models.py:31 projects/models.py:67
+msgid "Company"
+msgstr "Unternehmen"
+
+#: accounts/models.py:297 accounts/models.py:397 accounts/models.py:676
+#: accounts/models.py:705
+msgid "First name"
+msgstr "Vorname"
+
+#: accounts/models.py:298 accounts/models.py:404 accounts/models.py:677
+#: accounts/models.py:706
+msgid "Last name"
+msgstr "Nachname"
+
+#: accounts/models.py:300 accounts/models.py:484 accounts/models.py:624
+#: accounts/models.py:679 accounts/models.py:709
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: accounts/models.py:312 accounts/models.py:509 accounts/models.py:666
+msgid "Link url"
+msgstr "Link-URL"
+
+#: accounts/models.py:321
+msgid "Specialization name"
+msgstr ""
+
+#: accounts/models.py:337
+msgid "Technology name"
+msgstr "Technologie / Bezeichnung"
+
+#: accounts/models.py:401 accounts/models.py:408 accounts/serializers.py:247
+#: accounts/serializers.py:257 accounts/serializers.py:269
+#: accounts/serializers.py:334 accounts/serializers.py:335
+#: accounts/serializers.py:416 accounts/serializers.py:417
+#: accounts/serializers.py:431 accounts/serializers.py:432
+#: accounts/serializers.py:462 accounts/serializers.py:463
+#: accounts/serializers.py:464 accounts/serializers.py:571
+#: accounts/serializers.py:572 accounts/serializers.py:573
+#: faq/serializers.py:24 faq/serializers.py:32 projects/serializers.py:116
+#: projects/serializers.py:117 projects/serializers.py:134
+#: projects/serializers.py:135 projects/serializers.py:278
+#: projects/serializers.py:302
+msgid "Please enter maximum 255 symbols"
+msgstr "Bitte maximal 255 Zeichen eingeben"
+
+#: accounts/models.py:410
+msgid "Nationality"
+msgstr "Nationalität"
+
+#: accounts/models.py:412
+msgid "Profile image"
+msgstr "Profil-Bild"
+
+#: accounts/models.py:417
+msgid "Job position"
+msgstr "Position"
+
+#: accounts/models.py:421
+msgid "Cover letter"
+msgstr "Anschreiben"
+
+#: accounts/models.py:423 accounts/models.py:424
+msgid "Please enter between 255 and 1000 symbols"
+msgstr "Bitte geben Sie zwischen 255 und 1000 Zeichen ein"
+
+#: accounts/models.py:450
+msgid "Date of birth"
+msgstr "Geburtsdatum"
+
+#: accounts/models.py:452 projects/models.py:87
+msgid "Experience"
+msgstr "Erfahrung"
+
+#: accounts/models.py:458 projects/models.py:92
+msgid "Experience level"
+msgstr "Erfahrungslevel"
+
+#: accounts/models.py:480
+msgid "Communication Language"
+msgstr "Bevorzugte Sprache"
+
+#: accounts/models.py:489
+msgid "LinkedIn Profile"
+msgstr "LinkedIn Profil"
+
+#: accounts/models.py:492
+msgid "Is identified"
+msgstr "Wird identifiziert"
+
+#: accounts/models.py:506
+msgid "Candidate"
+msgstr "Kandidat"
+
+#: accounts/models.py:579
+msgid "Number of available specialists"
+msgstr "Anzahl verfügbarer Fachleute"
+
+#: accounts/models.py:590
+msgid "Please enter minimum 100 symbols"
+msgstr "Bitte geben Sie mindestens 100 Symbole ein"
+
+#: accounts/models.py:591
+msgid "Please enter maximun 2000 symbols"
+msgstr "Bitte geben Sie maximal 2000 Symbole ein"
+
+#: accounts/models.py:594
+msgid "Founded"
+msgstr "Gegründet"
+
+#: accounts/models.py:595
+msgid "Company type"
+msgstr "Unternehmenstyp"
+
+#: accounts/models.py:707
+#, fuzzy
+#| msgid "Position application"
+msgid "Position at company"
+msgstr "Antrag auf Position"
+
+#: accounts/password_reset_views.py:52 accounts/password_reset_views.py:86
+msgid "Wrong code."
+msgstr "Falscher Code."
+
+#: accounts/password_reset_views.py:60 accounts/password_reset_views.py:94
+msgid "Code is expired."
+msgstr "Code ist abgelaufen."
+
+#: accounts/password_reset_views.py:163
+msgid ""
+"There is no active user associated with this e-mail address or the password "
+"can not be changed."
+msgstr ""
+"Es gibt keinen aktiven Benutzer in Verbindung mit dieser E-Mail-Adresse oder "
+"das Passwort kann nicht geändert werden."
+
+#: accounts/serializers.py:187
+#, fuzzy
+#| msgid "Password not provided."
+msgid "Password is required field"
+msgstr "Passwort nicht angegeben."
+
+#: accounts/serializers.py:258 accounts/serializers.py:270
+#: accounts/serializers.py:465 accounts/serializers.py:574
+msgid "Invalid URL address"
+msgstr "Ungültige URL-Adresse"
+
+#: accounts/serializers.py:336 accounts/serializers.py:418
+#: accounts/serializers.py:433
+msgid "Please enter maximum 16 digits"
+msgstr "Bitte maximal 16 Ziffern eingeben"
+
+#: accounts/tasks.py:25
+msgid "Daily users report"
+msgstr ""
+
+#: accounts/tasks.py:26
+#, python-brace-format
+msgid ""
+"Daily users report {8} - {9}:\n"
+"\n"
+"New subscribtions:\n"
+"\tTotal - {0}\n"
+"\tCreated candidates - {1}\n"
+"\tCreated companies - {2}\n"
+"\tNot activated users - {4}\n"
+"\n"
+"Deleted users - {3}\n"
+"\n"
+"Total amount of users - {5}\n"
+"\tCompanies - {6}\n"
+"\tCandidates - {7}\n"
+msgstr ""
+
+#: accounts/tasks.py:60 accounts/tasks.py:95
+msgid "Monthly users report"
+msgstr ""
+
+#: accounts/tasks.py:61 accounts/tasks.py:96
+#, python-brace-format
+msgid ""
+"Monthly users report {8} - {9}:\n"
+"\n"
+"New subscribtions:\n"
+"\tTotal - {0}\n"
+"\tCreated candidates - {1}\n"
+"\tCreated companies - {2}\n"
+"\tNot activated users - {4}\n"
+"\n"
+"Deleted users - {3}\n"
+"\n"
+"Total amount of users - {5}\n"
+"\tCompanies - {6}\n"
+"\tCandidates - {7}\n"
+msgstr ""
+
+#: accounts/tasks.py:130
+msgid "Year users report"
+msgstr ""
+
+#: accounts/tasks.py:131
+#, python-brace-format
+msgid ""
+"Year users report {8} - {9}:\n"
+"\n"
+"New subscribtions:\n"
+"\tTotal - {0}\n"
+"\tCreated candidates - {1}\n"
+"\tCreated companies - {2}\n"
+"\tNot activated users - {4}\n"
+"\n"
+"Deleted users - {3}\n"
+"\n"
+"Total amount of users - {5}\n"
+"\tCompanies - {6}\n"
+"\tCandidates - {7}\n"
+msgstr ""
+
+#: accounts/validators.py:13 accounts/validators.py:18
+msgid "The password must contain at least 1 uppercase letter"
+msgstr "Das Passwort muss mindestens einen Grossbuchstaben enthalten"
+
+#: accounts/validators.py:26 accounts/validators.py:30
+msgid "Your age must be over 16"
+msgstr "Sie müssen über 16 Jahre alt sein"
+
+#: accounts/validators.py:37 accounts/validators.py:41
+msgid "The date must not be in the future"
+msgstr "Das Datum darf nicht in der Zukunft liegen"
+
+#: accounts/validators.py:49 accounts/validators.py:53
+msgid "The link must contain a LinkedIn profile url"
+msgstr "Der Link muss eine LinkedIn-Profil-URL enthalten"
+
+#: accounts/validators.py:60 accounts/validators.py:64
+msgid "Phone number must be entered in the format +999999999"
+msgstr "Telefonnummer muss im Format +99999999999 eingegeben werden"
+
+#: accounts/validators.py:70 accounts/validators.py:73
+msgid "The file size must be maximum 5 MB"
+msgstr "Die Dateigrösse darf maximal 5 MB betragen"
+
+#: accounts/validators.py:81 accounts/validators.py:84
+msgid "The image must be at least 400x400px"
+msgstr "Das Bild muss mindestens 400x400px gross sein"
+
+#: accounts/views.py:108 templates/accounts/activation_letter.html:131
+msgid "Confirm Your Email Address"
+msgstr "Bestätigen Sie Ihre E-Mail-Adresse"
+
+#  #: .\accounts\views.py:90 .\templates\accounts\activation_letter.html:130
+#  #, fuzzy
+#  #| msgid "Email address"
+#  msgid "Confirm Your Email Address"
+#  msgstr "E-Mail-Adresse"
+#: accounts/views.py:109
+msgid "Please confirm your email address"
+msgstr "Bestätigen Sie Ihre E-Mail-Adresse"
+
+#: accounts/views.py:133
+msgid "Activation link is invalid!"
+msgstr "Aktivierungslink ist ungültig!"
+
+#: accounts/views.py:153
+msgid "This profile is already identified"
+msgstr "Dieses Profil ist bereits identifiziert"
+
+#  #: .\accounts\views.py:125
+#  #, fuzzy
+#  #| msgid "This field is required"
+#  msgid "This profile is already identified"
+#  msgstr "Dieses Feld wird benötigt"
+#  msgstr"Dieses Profil ist bereits identifiziert"
+#: accounts/views.py:208 accounts/views.py:328 authentication/serializers.py:41
+msgid "Incorrect password"
+msgstr "Falsches Passwort"
+
+#: accounts/views.py:215
+msgid "Password updated successfully"
+msgstr "Passwort erfolgreich aktualisiert"
+
+#: accounts/views.py:221
+msgid "Password Change"
+msgstr "Passwort ändern"
+
+#: accounts/views.py:222
+msgid "Your password has been changed"
+msgstr "Ihr Passwort wurde geändert"
+
+#: accounts/views.py:240 accounts/views.py:241
+msgid "Reset password"
+msgstr "Passwort zurücksetzen"
+
+#: accounts/views.py:275
+msgid "Email Change Confirmation Letter"
+msgstr "E-Mail-Änderungsbestätigungsschreiben"
+
+#: accounts/views.py:276
+msgid "Please confirm your email changing"
+msgstr "Bitte bestätigen Sie Ihre E-Mail-Änderung"
+
+#: accounts/views.py:304
+msgid "Change email link is invalid!"
+msgstr "E-Mail-Link ändern ist ungültig!"
+
+#: accounts/views.py:331
+msgid "This field may not be blank."
+msgstr "Dieses Feld darf nicht leer sein."
+
+#: accounts/views.py:363 accounts/views.py:384
+msgid "You can't upload more than 3 CVs per 24 hours."
+msgstr "Sie können nicht mehr als 3 Lebensläufe pro 24 Stunden hochladen"
+
+#: accounts/views.py:449
+msgid "You can't upload more than 3 documents per 24 hours."
+msgstr "Sie können nicht mehr als 3 Dateien pro 24 Stunden hochladen."
+
+#: accounts/views.py:515 accounts/views.py:631 accounts/views.py:704
+#: accounts/views.py:800
+msgid "This user already has profile"
+msgstr "Dieser Benutzer hat bereits ein Profil"
+
+#: accounts/views.py:534
+msgid "You have already hired this candidate"
+msgstr "Sie haben diesen Kandidaten bereits eingestellt"
+
+#: accounts/views.py:570 accounts/views.py:732 projects/views.py:193
+msgid "Question has been successfully sent"
+msgstr "Frage wurde erfolgreich gesendet"
+
+#: accounts/views.py:752
+msgid "You have already hired this agency"
+msgstr "Sie haben diese Agentur bereits eingestellt."
+
+#: authentication/backends.py:13
+msgid "Your verification code is: "
+msgstr "Ihr Verifizierungscode ist: "
+
+#: authentication/backends.py:26
+msgid "SMS message with MFA code has been sent."
+msgstr "SMS-Nachricht mit MFA-Code wurde gesendet. "
+
+#: authentication/serializers.py:21
+msgid "This phone number is already in use"
+msgstr "Diese Telefonnummer wird bereits verwendet."
+
+#: authentication/serializers.py:40
+msgid "Password not provided."
+msgstr "Passwort nicht angegeben."
+
+#: authentication/serializers.py:75
+msgid "2FA is not enabled."
+msgstr ""
+
+#: authentication/serializers.py:76
+msgid "Invalid or expired code."
+msgstr ""
+
+#: authentication/serializers.py:77
+msgid "Target method does not exist or is not active."
+msgstr ""
+
+#: authentication/serializers.py:78
+#, fuzzy
+#| msgid "This user already has profile"
+msgid "This method already setted as primary."
+msgstr "Dieser Benutzer hat bereits ein Profil"
+
+#: authentication/serializers.py:121
+msgid "Invalid or expired token."
+msgstr ""
+
+#: authentication/serializers.py:122 authentication/views/mfa.py:77
+msgid "Requested MFA method does not exists"
+msgstr ""
+
+#: base/languages/constants.py:7
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: base/languages/constants.py:8
+msgid "Albania"
+msgstr "Albanien"
+
+#: base/languages/constants.py:9
+msgid "Algeria"
+msgstr "Algerien"
+
+#: base/languages/constants.py:10
+msgid "Andorra"
+msgstr "Andorra"
+
+#: base/languages/constants.py:11
+msgid "Angola"
+msgstr "Angola"
+
+#: base/languages/constants.py:12
+msgid "Antigua and Barbuda"
+msgstr "Antigua und Barbuda"
+
+#: base/languages/constants.py:13
+msgid "Argentina"
+msgstr "Argentinien"
+
+#: base/languages/constants.py:14
+msgid "Armenia"
+msgstr "Armenien"
+
+#: base/languages/constants.py:15
+msgid "Aruba"
+msgstr "Aruba"
+
+#: base/languages/constants.py:16
+msgid "Australia"
+msgstr "Australien"
+
+#: base/languages/constants.py:17
+msgid "Austria"
+msgstr "Österreich"
+
+#: base/languages/constants.py:18
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+#: base/languages/constants.py:19
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: base/languages/constants.py:20
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: base/languages/constants.py:21
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+#: base/languages/constants.py:22
+msgid "Barbados"
+msgstr "Barbados"
+
+#: base/languages/constants.py:23
+msgid "Belarus"
+msgstr "Belarus"
+
+#: base/languages/constants.py:24
+msgid "Belgium"
+msgstr "Belgien"
+
+#: base/languages/constants.py:25
+msgid "Belize"
+msgstr "Belize"
+
+#: base/languages/constants.py:26
+msgid "Benin"
+msgstr "Benin"
+
+#: base/languages/constants.py:27
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: base/languages/constants.py:28
+msgid "Bolivia"
+msgstr "Bolivien"
+
+#: base/languages/constants.py:29
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnien und Herzegowina"
+
+#: base/languages/constants.py:30
+msgid "Botswana"
+msgstr "Botsuana"
+
+#: base/languages/constants.py:31
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: base/languages/constants.py:32
+msgid "British Indian Ocean Territory"
+msgstr "Britisches Territorium im Indischen Ozean"
+
+#: base/languages/constants.py:33
+msgid "Brunei"
+msgstr "Brunei Darussalam"
+
+#: base/languages/constants.py:34
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: base/languages/constants.py:35
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: base/languages/constants.py:36
+msgid "Burundi"
+msgstr "Burundi"
+
+#: base/languages/constants.py:37
+msgid "Cambodia"
+msgstr "Kambodscha"
+
+#: base/languages/constants.py:38
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: base/languages/constants.py:39
+msgid "Canada"
+msgstr "Kanada"
+
+#: base/languages/constants.py:40
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#: base/languages/constants.py:41
+msgid "Caribbean Netherlands"
+msgstr "Bonaire, Sint Eustatius und Saba"
+
+#: base/languages/constants.py:42
+msgid "Central African Republic"
+msgstr "Zentralafrikanische Republik"
+
+#: base/languages/constants.py:43
+msgid "Chad"
+msgstr "Tschad"
+
+#: base/languages/constants.py:44
+msgid "Chile"
+msgstr "Chile"
+
+#: base/languages/constants.py:45
+msgid "China"
+msgstr "China"
+
+#: base/languages/constants.py:46
+msgid "Colombia"
+msgstr "Kolumbien"
+
+#: base/languages/constants.py:47
+msgid "Comoros"
+msgstr "Komoren"
+
+#: base/languages/constants.py:48
+msgid "Congo-Kinshasa"
+msgstr "Kongo-Kinshasa"
+
+#: base/languages/constants.py:49
+msgid "Congo-Brazzaville"
+msgstr "Kongo-Brazzaville"
+
+#: base/languages/constants.py:50
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: base/languages/constants.py:51
+msgid "Côte d’Ivoire"
+msgstr "Côte d’Ivoire"
+
+#: base/languages/constants.py:52
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: base/languages/constants.py:53
+msgid "Cuba"
+msgstr "Kuba"
+
+#: base/languages/constants.py:54
+msgid "Curaçao"
+msgstr "Curaçao"
+
+#: base/languages/constants.py:55
+msgid "Cyprus"
+msgstr "Zypern"
+
+#: base/languages/constants.py:56
+msgid "Czech Republic"
+msgstr "Tschechien"
+
+#: base/languages/constants.py:57
+msgid "Denmark"
+msgstr "Dänemark"
+
+#: base/languages/constants.py:58
+msgid "Djibouti"
+msgstr "Dschibuti"
+
+#: base/languages/constants.py:59
+msgid "Dominica"
+msgstr "Dominica"
+
+#: base/languages/constants.py:60
+msgid "Dominican Republic"
+msgstr "Dominikanische Republik"
+
+#: base/languages/constants.py:61
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: base/languages/constants.py:62
+msgid "Egypt"
+msgstr "Ägypten"
+
+#: base/languages/constants.py:63
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: base/languages/constants.py:64
+msgid "Equatorial Guinea"
+msgstr "Äquatorialguinea"
+
+#: base/languages/constants.py:65
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: base/languages/constants.py:66
+msgid "Estonia"
+msgstr "Estland"
+
+#: base/languages/constants.py:67
+msgid "Ethiopia"
+msgstr "Äthiopien"
+
+#: base/languages/constants.py:68
+msgid "Fiji"
+msgstr "Fidschi"
+
+#: base/languages/constants.py:69
+msgid "Finland"
+msgstr "Finnland"
+
+#: base/languages/constants.py:70
+msgid "France"
+msgstr "Frankreich"
+
+#: base/languages/constants.py:71
+msgid "French Guiana"
+msgstr "Französisch-Guayana"
+
+#: base/languages/constants.py:72
+msgid "French Polynesia"
+msgstr "Französisch-Polynesien"
+
+#: base/languages/constants.py:73
+msgid "Gabon"
+msgstr "Gabun"
+
+#: base/languages/constants.py:74
+msgid "Gambia"
+msgstr "Gambia"
+
+#: base/languages/constants.py:75
+msgid "Georgia"
+msgstr "Georgien"
+
+#: base/languages/constants.py:76
+msgid "Germany"
+msgstr "Deutschland"
+
+#: base/languages/constants.py:77
+msgid "Ghana"
+msgstr "Ghana"
+
+#: base/languages/constants.py:78
+msgid "Greece"
+msgstr "Griechenland"
+
+#: base/languages/constants.py:79
+msgid "Grenada"
+msgstr "Grenada"
+
+#: base/languages/constants.py:80
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: base/languages/constants.py:81
+msgid "Guam"
+msgstr "Guam"
+
+#: base/languages/constants.py:82
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: base/languages/constants.py:83
+msgid "Guinea"
+msgstr "Guinea"
+
+#: base/languages/constants.py:84
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: base/languages/constants.py:85
+msgid "Guyana"
+msgstr "Guyana"
+
+#: base/languages/constants.py:86
+msgid "Haiti"
+msgstr "Haiti"
+
+#: base/languages/constants.py:87
+msgid "Honduras"
+msgstr "Honduras"
+
+#: base/languages/constants.py:88
+msgid "Hong Kong"
+msgstr "Sonderverwaltungsregion Hongkong"
+
+#: base/languages/constants.py:89
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: base/languages/constants.py:90
+msgid "Iceland"
+msgstr "Island"
+
+#: base/languages/constants.py:91
+msgid "India"
+msgstr "Indien"
+
+#: base/languages/constants.py:92
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: base/languages/constants.py:93
+msgid "Iran"
+msgstr "Iran"
+
+#: base/languages/constants.py:94
+msgid "Iraq"
+msgstr "Irak"
+
+#: base/languages/constants.py:95
+msgid "Ireland"
+msgstr "Irland"
+
+#: base/languages/constants.py:96
+msgid "Israel"
+msgstr "Israel"
+
+#: base/languages/constants.py:97
+msgid "Italy"
+msgstr "Italien"
+
+#: base/languages/constants.py:98
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: base/languages/constants.py:99
+msgid "Japan"
+msgstr "Japan"
+
+#: base/languages/constants.py:100
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: base/languages/constants.py:101
+msgid "Kazakhstan"
+msgstr "Kasachstan"
+
+#: base/languages/constants.py:102
+msgid "Kenya"
+msgstr "Kenia"
+
+#: base/languages/constants.py:103
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: base/languages/constants.py:104
+msgid "Kosovo"
+msgstr "Kosovo"
+
+#: base/languages/constants.py:105
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: base/languages/constants.py:106
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: base/languages/constants.py:107
+msgid "Laos"
+msgstr "Laos"
+
+#: base/languages/constants.py:108
+msgid "Latvia"
+msgstr "Lettland"
+
+#: base/languages/constants.py:109
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: base/languages/constants.py:110
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: base/languages/constants.py:111
+msgid "Liberia"
+msgstr "Liberia"
+
+#: base/languages/constants.py:112
+msgid "Libya"
+msgstr "Libyen"
+
+#: base/languages/constants.py:113
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: base/languages/constants.py:114
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: base/languages/constants.py:115
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: base/languages/constants.py:116
+msgid "Macau"
+msgstr "Sonderverwaltungsregion Macau"
+
+#: base/languages/constants.py:117
+msgid "Macedonia"
+msgstr "Nordmazedonien"
+
+#: base/languages/constants.py:118
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: base/languages/constants.py:119
+msgid "Malawi"
+msgstr "Malawi"
+
+#: base/languages/constants.py:120
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: base/languages/constants.py:121
+msgid "Maldives"
+msgstr "Malediven"
+
+#: base/languages/constants.py:122
+msgid "Mali"
+msgstr "Mali"
+
+#: base/languages/constants.py:123
+msgid "Malta"
+msgstr "Malta"
+
+#: base/languages/constants.py:124
+msgid "Marshall Islands"
+msgstr "Marshallinseln"
+
+#: base/languages/constants.py:125
+msgid "Martinique"
+msgstr "Martinique"
+
+#: base/languages/constants.py:126
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+#: base/languages/constants.py:127
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: base/languages/constants.py:128
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: base/languages/constants.py:129
+msgid "Micronesia"
+msgstr "Mikronesien"
+
+#: base/languages/constants.py:130
+msgid "Moldova"
+msgstr "Republik Moldau"
+
+#: base/languages/constants.py:131
+msgid "Monaco"
+msgstr "Monaco"
+
+#: base/languages/constants.py:132
+msgid "Mongolia"
+msgstr "Mongolei"
+
+#: base/languages/constants.py:133
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: base/languages/constants.py:134
+msgid "Morocco"
+msgstr "Marokko"
+
+#: base/languages/constants.py:135
+msgid "Mozambique"
+msgstr "Mosambik"
+
+#: base/languages/constants.py:136
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: base/languages/constants.py:137
+msgid "Namibia"
+msgstr "Namibia"
+
+#: base/languages/constants.py:138
+msgid "Nauru"
+msgstr "Nauru"
+
+#: base/languages/constants.py:139
+msgid "Nepal"
+msgstr "Nepal"
+
+#: base/languages/constants.py:140
+msgid "Netherlands"
+msgstr "Niederlande"
+
+#: base/languages/constants.py:141
+msgid "New Caledonia"
+msgstr "Neukaledonien"
+
+#: base/languages/constants.py:142
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+#: base/languages/constants.py:143
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: base/languages/constants.py:144
+msgid "Niger"
+msgstr "Niger"
+
+#: base/languages/constants.py:145
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: base/languages/constants.py:146
+msgid "North Korea"
+msgstr "Nordkorea"
+
+#: base/languages/constants.py:147
+msgid "Norway"
+msgstr "Norwegen"
+
+#: base/languages/constants.py:148
+msgid "Oman"
+msgstr "Oman"
+
+#: base/languages/constants.py:149
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: base/languages/constants.py:150
+msgid "Palau"
+msgstr "Palau"
+
+#: base/languages/constants.py:151
+msgid "Palestine"
+msgstr "Palästinensische Autonomiegebiete"
+
+#: base/languages/constants.py:152
+msgid "Panama"
+msgstr "Panama"
+
+#: base/languages/constants.py:153
+msgid "Papua New Guinea"
+msgstr "Papua-Neuguinea"
+
+#: base/languages/constants.py:154
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: base/languages/constants.py:155
+msgid "Peru"
+msgstr "Peru"
+
+#: base/languages/constants.py:156
+msgid "Philippines"
+msgstr "Philippinen"
+
+#: base/languages/constants.py:157
+msgid "Poland"
+msgstr "Polen"
+
+#: base/languages/constants.py:158
+msgid "Portugal"
+msgstr "Portugal"
+
+#: base/languages/constants.py:159
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: base/languages/constants.py:160
+msgid "Qatar"
+msgstr "Katar"
+
+#: base/languages/constants.py:161
+msgid "Réunion"
+msgstr "Réunion"
+
+#: base/languages/constants.py:162
+msgid "Romania"
+msgstr "Rumänien"
+
+#: base/languages/constants.py:163
+msgid "Russia"
+msgstr "Russland"
+
+#: base/languages/constants.py:164
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: base/languages/constants.py:165
+msgid "Saint Kitts and Nevis"
+msgstr "St. Kitts und Nevis"
+
+#: base/languages/constants.py:166
+msgid "Saint Lucia"
+msgstr "St. Lucia"
+
+#: base/languages/constants.py:167
+msgid "Saint Vincent and the Grenadines"
+msgstr "St. Vincent und die Grenadinen"
+
+#: base/languages/constants.py:168
+msgid "Samoa"
+msgstr "Samoa"
+
+#: base/languages/constants.py:169
+msgid "San Marino"
+msgstr "San Marino"
+
+#: base/languages/constants.py:170
+msgid "São Tomé and Príncipe"
+msgstr "São Tomé und Príncipe"
+
+#: base/languages/constants.py:171
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabien"
+
+#: base/languages/constants.py:172
+msgid "Senegal"
+msgstr "Senegal"
+
+#: base/languages/constants.py:173
+msgid "Serbia"
+msgstr "Serbien"
+
+#: base/languages/constants.py:174
+msgid "Seychelles"
+msgstr "Seychellen"
+
+#: base/languages/constants.py:175
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: base/languages/constants.py:176
+msgid "Singapore"
+msgstr "Singapur"
+
+#: base/languages/constants.py:177
+msgid "Slovakia"
+msgstr "Slowakei"
+
+#: base/languages/constants.py:178
+msgid "Slovenia"
+msgstr "Slowenien"
+
+#: base/languages/constants.py:179
+msgid "Solomon Islands"
+msgstr "Salomonen"
+
+#: base/languages/constants.py:180
+msgid "Somalia"
+msgstr "Somalia"
+
+#: base/languages/constants.py:181
+msgid "South Africa"
+msgstr "Südafrika"
+
+#: base/languages/constants.py:182
+msgid "South Korea"
+msgstr "Südkorea"
+
+#: base/languages/constants.py:183
+msgid "South Sudan"
+msgstr "Südsudan"
+
+#: base/languages/constants.py:184
+msgid "Spain"
+msgstr "Spanien"
+
+#: base/languages/constants.py:185
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: base/languages/constants.py:186
+msgid "Sudan"
+msgstr "Sudan"
+
+#: base/languages/constants.py:187
+msgid "Suriname"
+msgstr "Suriname"
+
+#: base/languages/constants.py:188
+msgid "Swaziland"
+msgstr "Swasiland"
+
+#: base/languages/constants.py:189
+msgid "Sweden"
+msgstr "Schweden"
+
+#: base/languages/constants.py:190
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: base/languages/constants.py:191
+msgid "Syria"
+msgstr "Syrien"
+
+#: base/languages/constants.py:192
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: base/languages/constants.py:193
+msgid "Tajikistan"
+msgstr "Tadschikistan"
+
+#: base/languages/constants.py:194
+msgid "Tanzania"
+msgstr "Tansania"
+
+#: base/languages/constants.py:195
+msgid "Thailand"
+msgstr "Thailand"
+
+#: base/languages/constants.py:196
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: base/languages/constants.py:197
+msgid "Togo"
+msgstr "Togo"
+
+#: base/languages/constants.py:198
+msgid "Tonga"
+msgstr "Tonga"
+
+#: base/languages/constants.py:199
+msgid "Trinidad and Tobago"
+msgstr "Trinidad und Tobago"
+
+#: base/languages/constants.py:200
+msgid "Tunisia"
+msgstr "Tunesien"
+
+#: base/languages/constants.py:201
+msgid "Turkey"
+msgstr "Türkei"
+
+#: base/languages/constants.py:202
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: base/languages/constants.py:203
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: base/languages/constants.py:204
+msgid "Uganda"
+msgstr "Uganda"
+
+#: base/languages/constants.py:205
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: base/languages/constants.py:206
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+#: base/languages/constants.py:207
+msgid "United Kingdom"
+msgstr "Vereinigtes Königreich"
+
+#: base/languages/constants.py:208
+msgid "United States"
+msgstr "Vereinigte Staaten"
+
+#: base/languages/constants.py:209
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: base/languages/constants.py:210
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+#: base/languages/constants.py:211
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: base/languages/constants.py:212
+msgid "Vatican City"
+msgstr "Vatikanstadt"
+
+#: base/languages/constants.py:213
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: base/languages/constants.py:214
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: base/languages/constants.py:215
+msgid "Yemen"
+msgstr "Jemen"
+
+#: base/languages/constants.py:216
+msgid "Zambia"
+msgstr "Sambia"
+
+#: base/languages/constants.py:217
+msgid "Zimbabwe"
+msgstr "Simbabwe"
+
+#: faq/models.py:9
+msgid "For company"
+msgstr ""
+
+#: faq/models.py:10
+msgid "For candidate"
+msgstr ""
+
+#: faq/models.py:12
+msgid "Question headline"
+msgstr "Frage-Überschrift"
+
+#: faq/models.py:13
+msgid "Answer"
+msgstr "Antwort"
+
+#: faq/models.py:14
+msgid "Question type"
+msgstr "Fragetyp"
+
+#: faq/serializers.py:25 faq/serializers.py:34 faq/serializers.py:40
+#: projects/serializers.py:340
+msgid "This field is required"
+msgstr "Dieses Feld wird benötigt"
+
+#: faq/serializers.py:33
+msgid "Not valid email address"
+msgstr "Keine gültige E-Mail-Adresse"
+
+#: invitations/views.py:48 invitations/views.py:49
+#: templates/accounts/invitation_letter.html:131
+msgid "Invitation to join a team "
+msgstr ""
+
+#: payments/utils.py:22
+msgid "Agency membership"
+msgstr ""
+
+#: projects/constants.py:5
+msgid "US Dollar"
+msgstr "US-Dollar"
+
+#: projects/constants.py:6
+msgid "Euro"
+msgstr "Euro"
+
+#: projects/constants.py:7
+msgid "Swiss Franc"
+msgstr "Schweizer Franken"
+
+#: projects/models.py:35
+msgid "Project name"
+msgstr "Projektname"
+
+#: projects/models.py:39
+msgid "Project description"
+msgstr "Projektbeschreibung"
+
+#: projects/models.py:43
+msgid "Location"
+msgstr "Standort"
+
+#: projects/models.py:72
+msgid "Project"
+msgstr "Projekt"
+
+#: projects/models.py:78
+msgid "Position title"
+msgstr "Anforderungen"
+
+#: projects/models.py:107
+msgid "Requirements"
+msgstr "Was wir bieten"
+
+#: projects/models.py:112
+msgid "What we offer"
+msgstr "Bitte Zahlen eingeben"
+
+#: projects/serializers.py:38 projects/serializers.py:39
+msgid "Please enter numbers"
+msgstr "Bitte Zahlen eingeben"
+
+#: projects/views.py:159
+msgid "You have already applied for this position"
+msgstr "Sie haben sich bereits für diese Stelle beworben"
+
+#: projects/views.py:163
+#, fuzzy
+#| msgid "Position application"
+msgid "Position application test"
+msgstr "Antrag auf Position"
+
+#  #: .\projects\views.py:126
+#  #, fuzzy
+#  #| msgid "Position title"
+#  msgid "Position application"
+#  msgstr "Anforderungen"
+#: projects/views.py:184
+msgid "New candidate question"
+msgstr "Neue Kandidatenfrage"
+
+#: secure_documents/constants.py:5
+msgid "Job Offer"
+msgstr "Job-Angebot "
+
+#: secure_documents/constants.py:7
+msgid "Invoice"
+msgstr "Rechnung"
+
+#: secure_documents/serializers.py:63 secure_documents/serializers.py:64
+msgid "Please, provide IBAN code or choose Non-SEPA region"
+msgstr ""
+"Bitte geben Sie den IBAN-Code an oder wählen Sie eine Nicht-SEPA-Region."
+
+#: secure_documents/serializers.py:69 secure_documents/serializers.py:70
+#: secure_documents/serializers.py:109 secure_documents/serializers.py:110
+#: secure_documents/serializers.py:149 secure_documents/serializers.py:150
+msgid "Please provide either a number or upload a file"
+msgstr ""
+"Bitte geben Sie entweder eine Nummer an oder laden Sie eine Datei hoch."
+
+#: secure_documents/serializers.py:105 secure_documents/serializers.py:145
+msgid "Please, provide bank account details first."
+msgstr "Bitte geben Sie zuerst die Bankkontodaten an."
+
+#: secure_documents/validators.py:12
+#, fuzzy
+#| msgid "This field may not be blank."
+msgid "This field can't be changed"
+msgstr "Dieses Feld darf nicht leer sein."
+
+#: secure_documents/validators.py:16
+msgid "Saved fields can't be changed"
+msgstr ""
+
+#: secure_documents/views.py:54 secure_documents/views.py:74
+#: secure_documents/views.py:115 secure_documents/views.py:213
+#: secure_documents/views.py:329
+msgid "You cannot upload data one more time. To change it, please contact us."
+msgstr ""
+"Sie können Daten nicht noch einmal hochladen. Um sie zu ändern, kontaktieren "
+"Sie uns bitte."
+
+#: secure_documents/views.py:136 secure_documents/views.py:234
+#: secure_documents/views.py:348
+msgid "You do not have permission to perform this action."
+msgstr "Sie haben keine Erlaubnis, diese Aktion durchzuführen."
+
+#: templates/accounts/activation_letter.html:155
+#: templates/accounts/change_email_letter.html:161
+#: templates/accounts/invitation_letter.html:155
+#: templates/accounts/password_reset_letter.html:154
+#: templates/positions/candidate_apply_letter.html:155
+msgid "Hello,"
+msgstr "Hallo,"
+
+#: templates/accounts/activation_letter.html:178
+#: templates/accounts/invitation_letter.html:178
+msgid ""
+"\n"
+"                            Thank you again for creating an account at\n"
+"                            <a\n"
+"                              href=\"https://dev.globalit24.com/\"\n"
+"                              target=\"_blank\"\n"
+"                              rel=\"noopener noreferrer\"\n"
+"                              style=\"\n"
+"                                color: #f08f35;\n"
+"                                font-family: Roboto Medium, sans-serif;\n"
+"                                font-size: 16px;\n"
+"                                font-weight: bold;\n"
+"                                line-height: 24px;\n"
+"                              \"\n"
+"                              >GlobalIT24\n"
+"                            </a>\n"
+"                            .\n"
+"                          "
+msgstr ""
+"\n"
+"                            vielen Dank für die Einrichtung eines Kontos "
+"bei\n"
+"                            <a\n"
+"                              href=\"https://dev.globalit24.com/\"\n"
+"                              target=\"_blank\"\n"
+"                              rel=\"noopener noreferrer\"\n"
+"                              style=\"\n"
+"                                color: #f08f35;\n"
+"                                font-family: Roboto Medium, sans-serif;\n"
+"                                font-size: 16px;\n"
+"                                font-weight: bold;\n"
+"                                line-height: 24px;\n"
+"                              \"\n"
+"                              >GlobalIT24\n"
+"                            </a>\n"
+"                            .\n"
+"                          "
+
+#: templates/accounts/activation_letter.html:235
+msgid ""
+"\n"
+"                            Your dream team is waiting for you on our "
+"portal, as\n"
+"                            our mission is to bring great projects and "
+"people\n"
+"                            together.\n"
+"                          "
+msgstr ""
+"\n"
+"                            Ihr Wunschteam wartet bereits auf unserem Portal "
+"auf Sie,                            denn unser Ziel ist es, grossartige "
+"Projekte und Menschen zusammenzubringen.\n"
+"                          "
+
+#: templates/accounts/activation_letter.html:262
+msgid ""
+"\n"
+"                            To grab the opportunity, please confirm your\n"
+"                            registration by clicking the link below and\n"
+"                            following the instructions.\n"
+"                          "
+msgstr ""
+"\n"
+"Um die Registrierung abzuschließen klicken Sie bitte auf den untenstehenden "
+"Aktivierungslink.\n"
+"                          "
+
+#: templates/accounts/activation_letter.html:317
+msgid "CLICK TO VERIFY EMAIL"
+msgstr "E-MAIL BESTÄTIGEN"
+
+#: templates/accounts/activation_letter.html:344
+#: templates/accounts/invitation_letter.html:327
+msgid ""
+"\n"
+"                            Button doesn't work? Copy and paste the "
+"following\n"
+"                            URL into your web browser to confirm your "
+"email:\n"
+"                          "
+msgstr ""
+"\n"
+"                            Sie können den Button nicht anklicken? Dann "
+"klicken Sie den Link\n"
+"                             an oder kopieren diesen in Ihren Browser.\n"
+"                          "
+
+#: templates/accounts/activation_letter.html:389
+#: templates/accounts/change_email_letter.html:371
+#: templates/accounts/change_password_letter.html:270
+#: templates/accounts/invitation_letter.html:372
+#: templates/accounts/password_reset_letter.html:381
+#: templates/agency/profile_published.html:254
+#: templates/positions/candidate_apply_letter.html:296
+msgid "Have a great day ahead."
+msgstr "Freundliche Grüsse"
+
+#: templates/accounts/activation_letter.html:413
+#: templates/accounts/change_email_letter.html:395
+#: templates/accounts/change_password_letter.html:294
+#: templates/accounts/invitation_letter.html:396
+#: templates/accounts/password_reset_letter.html:405
+#: templates/agency/profile_published.html:278
+#: templates/positions/candidate_apply_letter.html:320
+msgid "Sincerely yours,"
+msgstr "Freundliche Grüsse"
+
+#: templates/accounts/activation_letter.html:511
+#: templates/accounts/invitation_letter.html:494
+#: templates/agency/profile_published.html:376
+#: templates/positions/candidate_apply_letter.html:418
+msgid "Note:"
+msgstr "Hinweis:"
+
+#: templates/accounts/activation_letter.html:512
+#: templates/accounts/invitation_letter.html:495
+msgid ""
+"\n"
+"                                  You can revoke this consent at any time "
+"with effect for the future by sending an e-mail to\n"
+"                                  <a\n"
+"                                  style=\"\n"
+"                                    color: #f08f35;\n"
+"                                    font-weight: 500;\n"
+"                                    font-family: Roboto Medium, sans-serif;\n"
+"                                  \"\n"
+"                                  href=\"mailto:support@globalit24.com\"\n"
+"                                  >support@globalit24.com</a\n"
+"                                  >\n"
+"                                "
+msgstr ""
+"\n"
+"                               Diese Einwilligung können Sie jederzeit mit "
+"Wirkung für die Zukunft widerrufen, indem Sie eine Mail an \n"
+"                                  <a\n"
+"                                  style=\"\n"
+"                                    color: #f08f35;\n"
+"                                    font-weight: 500;\n"
+"                                    font-family: Roboto Medium, sans-serif;\n"
+"                                  \"\n"
+"                                  href=\"mailto:support@globalit24.com\"\n"
+"                                  >support@globalit24.com</a\n"
+"                                  >\n"
+"schicken.                                "
+
+#: templates/accounts/activation_letter.html:546
+#: templates/accounts/invitation_letter.html:529
+msgid ""
+"\n"
+"                                If you think, you have received this email "
+"by\n"
+"                                mistake, please, don’t do anything with it.\n"
+"                              "
+msgstr ""
+"\n"
+"Falls Sie die E-Mail versehentlich erhalten haben, \n"
+"löschen Sie diese einfach. Sie werden nicht registriert, \n"
+"wenn Sie nicht auf den Bestätigungs-Link klicken.\n"
+"                              "
+
+#: templates/accounts/change_email_letter.html:137
+msgid "Confirm Email Change"
+msgstr "Bestätigen Sie Ihre E-Mail-Adresse"
+
+#: templates/accounts/change_email_letter.html:184
+msgid "You have requested a change of an email in your account, that is:"
+msgstr ""
+"Sie haben die Änderung einer E-Mail-Adresse zu dem folgenden Konto beantragt:"
+
+#: templates/accounts/change_email_letter.html:254
+msgid ""
+"Please confirm this change of an email address by clicking the following link"
+msgstr ""
+"Bitte bestätigen Sie die Änderung dieser E-Mail-Adresse, indem Sie auf den "
+"folgenden Link klicken:"
+
+#: templates/accounts/change_email_letter.html:303
+msgid "CLICK TO CHANGE EMAIL"
+msgstr "KLICKEN, UM E-MAIL ZU ÄNDERN"
+
+#: templates/accounts/change_email_letter.html:330
+msgid ""
+"Button doesn't work? Copy and paste the following URL into your web browser "
+"to confirm your email:"
+msgstr ""
+"Sie können den Button nicht anklicken? Dann klicken Sie den Link an oder "
+"kopieren diesen in Ihren Browser."
+
+#: templates/accounts/change_email_letter.html:493
+msgid ""
+"If you haven’t requested a change of the email, please contact us to resolve "
+"this issue."
+msgstr ""
+"Wenn Sie keine Änderung der E-Mail beantragt haben, wenden Sie sich bitte an "
+"support@globalit24.com um dies zu klären."
+
+#: templates/accounts/change_password_letter.html:131
+msgid "Confirm Password Change"
+msgstr "Passwort-Änderung bestätigen"
+
+#: templates/accounts/change_password_letter.html:155
+msgid "Hello!"
+msgstr "Hallo!"
+
+#: templates/accounts/change_password_letter.html:178
+msgid "You have requested a change of a password in your account. Your"
+msgstr "Sie haben eine Passwortänderung für Ihr Konto beantragt."
+
+#: templates/accounts/change_password_letter.html:219
+msgid "password has been changed in the system."
+msgstr "Ihr Passwort wurde im System geändert."
+
+#: templates/accounts/change_password_letter.html:242
+msgid ""
+"If you didn’t request changing your password, please contact us regarding "
+"this issue by sending an e-mail to"
+msgstr ""
+"Wenn Sie keine Änderung Ihres Passworts beantragt haben, kontaktieren Sie "
+"uns bitte diesbezüglich unter"
+
+#: templates/accounts/invitation_letter.html:235
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "                            To grab the opportunity, please confirm your\n"
+#| "                            registration by clicking the link below and\n"
+#| "                            following the instructions.\n"
+#| "                          "
+msgid ""
+"\n"
+"                            You were invited as %(position)s to join the "
+"team of the company %(employer)s.\n"
+"                            Please, click the link below to sign up as a "
+"team member.\n"
+"                          "
+msgstr ""
+"\n"
+"Um die Registrierung abzuschließen klicken Sie bitte auf den untenstehenden "
+"Aktivierungslink.\n"
+"                          "
+
+#: templates/accounts/invitation_letter.html:300
+msgid "CLICK TO JOIN"
+msgstr ""
+
+#: templates/accounts/password_reset_letter.html:131
+msgid "Reset Your Password"
+msgstr "Passwort zurücksetzen"
+
+#: templates/accounts/password_reset_letter.html:177
+msgid "You recently have requested to reset your password for your"
+msgstr ""
+"Sie haben kürzlich beantragt, das Passwort für Ihren GlobalIT24-Konto "
+"zurückzusetzen."
+
+#: templates/accounts/password_reset_letter.html:231
+msgid "account. Copy and paste the verification code below."
+msgstr ""
+"Kopieren Sie bitte den untenstehenden Verifizierungscode und fügen Sie ihn "
+"in das entsprechende Feld ein"
+
+#: templates/accounts/password_reset_letter.html:301
+msgid ""
+"This password reset is only valid for the next 15 minutes. After that, you "
+"have to request a new code. This is to protect and secure your account "
+"information."
+msgstr ""
+"Der Code ist aus Sicherheitsgründen nur für die nächsten 15 Minuten gültig. "
+"Danach müssen Sie einen neuen Code anfordern. Dieses Verfahren dient dem "
+"Schutz und der Sicherheit Ihrer Account-Informationen."
+
+#: templates/accounts/password_reset_letter.html:324
+msgid "If you didn’t request a password reset, please ignore this e-mail."
+msgstr ""
+"Wenn Sie kein neues Passwort angefordert haben, können Sie diese E-Mail "
+"ignorieren."
+
+#: templates/accounts/password_reset_letter.html:347
+msgid ""
+"If you have any further questions, please contact us by sending an e-mail to"
+msgstr "Falls Sie weitere Fragen haben, kontaktieren Sie uns bitte unter"
+
+#: templates/agency/profile_published.html:129
+msgid "Your profile was published"
+msgstr "Ihr Profil veröffentlicht"
+
+#: templates/agency/profile_published.html:153
+msgid "Congratulations!"
+msgstr "Herzlichen Glückwunsch!"
+
+#: templates/agency/profile_published.html:177
+msgid "profile has been accepted and published on GlobalIT24!"
+msgstr "Profil wurde überprüft und auf GlobalIT24 veröffentlicht!"
+
+#: templates/agency/profile_published.html:377
+#: templates/positions/candidate_apply_letter.html:419
+msgid ""
+"You can revoke this consent at any time with effect for the future by "
+"sending an e-mail to"
+msgstr ""
+"Diese Einwilligung können Sie jederzeit mit Wirkung für die Zukunft "
+"widerrufen, indem Sie Senden einer E-Mail an"
+
+#: templates/positions/candidate_apply_letter.html:131
+#, fuzzy
+#| msgid "Job position"
+msgid "Job Application"
+msgstr "Position"
+
+#: templates/positions/candidate_apply_letter.html:178
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "                            Thank you again for creating an account at\n"
+#| "                            <a\n"
+#| "                              href=\"https://dev.globalit24.com/\"\n"
+#| "                              target=\"_blank\"\n"
+#| "                              rel=\"noopener noreferrer\"\n"
+#| "                              style=\"\n"
+#| "                                color: #f08f35;\n"
+#| "                                font-family: Roboto Medium, sans-serif;\n"
+#| "                                font-size: 16px;\n"
+#| "                                font-weight: bold;\n"
+#| "                                line-height: 24px;\n"
+#| "                              \"\n"
+#| "                              >GlobalIT24\n"
+#| "                            </a>\n"
+#| "                            .\n"
+#| "                          "
+msgid ""
+"\n"
+"                            The Candidate\n"
+"                            <a\n"
+"                              href=\"https://dev.globalit24.com/\"\n"
+"                              target=\"_blank\"\n"
+"                              rel=\"noopener noreferrer\"\n"
+"                              style=\"\n"
+"                                color: #f08f35;\n"
+"                                font-family: Roboto Medium, sans-serif;\n"
+"                                font-size: 16px;\n"
+"                                font-weight: bold;\n"
+"                                line-height: 24px;\n"
+"                              \"\n"
+"                            >\n"
+"                              %(candidature)s\n"
+"                            </a>\n"
+"                            has applied for a job that you\n"
+"                            "
+msgstr ""
+"\n"
+"                            vielen Dank für die Einrichtung eines Kontos "
+"bei\n"
+"                            <a\n"
+"                              href=\"https://dev.globalit24.com/\"\n"
+"                              target=\"_blank\"\n"
+"                              rel=\"noopener noreferrer\"\n"
+"                              style=\"\n"
+"                                color: #f08f35;\n"
+"                                font-family: Roboto Medium, sans-serif;\n"
+"                                font-size: 16px;\n"
+"                                font-weight: bold;\n"
+"                                line-height: 24px;\n"
+"                              \"\n"
+"                              >GlobalIT24\n"
+"                            </a>\n"
+"                            .\n"
+"                          "
+
+#: templates/positions/candidate_apply_letter.html:236
+#, fuzzy
+#| msgid "Company name"
+msgid "company posted"
+msgstr "Unternehmen entsandt"
+
+#: templates/positions/candidate_apply_letter.html:273
+msgid ""
+"Don’t hesitate to contact the applicant - your project success lies in "
+"versed specialists."
+msgstr ""
+"Zögern Sie nicht, den Antragsteller zu kontaktieren - Ihr Projekterfolg "
+"liegt in versierte Spezialisten."
+
+#~ msgid "No active account found with the given credentials"
+#~ msgstr "Kein aktives Konto mit den angegebenen Anmeldedaten gefunden"
+
+#~ msgid "3…5 years"
+#~ msgstr "3…5 Jahre"
+
+#~ msgid "Additional description"
+#~ msgstr "Zusätzliche Beschreibung"
